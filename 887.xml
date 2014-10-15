@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>887</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Worker</Name>
+
+  <DocName>WORKER</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>776001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

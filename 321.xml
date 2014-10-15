@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>321</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Husband's app guardian</Name>
+
+  <DocName>HUSBAND_S_APPG</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>4001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1364</Layout_LayoutId>
+      <Layout_Title>Relationship to Willmaker</Layout_Title>
+      <Table_TableId>321</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1131</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1364</Layout_LayoutId>
+      <Layout_Title>Relationship to Willmaker</Layout_Title>
+      <Table_TableId>321</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1116</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

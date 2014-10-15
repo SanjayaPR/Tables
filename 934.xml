@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>934</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Witness to Codicil</Name>
+
+  <DocName>WITNESS_COD</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>823001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1368</Layout_LayoutId>
+      <Layout_Title>Details</Layout_Title>
+      <Table_TableId>934</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

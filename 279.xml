@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>279</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Named Beneficiary</Name>
+
+  <DocName>NAMED_BENEFICI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>194001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

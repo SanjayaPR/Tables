@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>253</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Father</Name>
+
+  <DocName>FATHER</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>175001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>622</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Proposed Trading Details</Name>
+
+  <DocName>PROP_TRADING</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>511001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>593</Layout_LayoutId>
+      <Layout_Title>Proposed Trading Details</Layout_Title>
+      <Table_TableId>622</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

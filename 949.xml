@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>949</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Public Trustee</Name>
+
+  <DocName>PUBLIC_TRUSTEE</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>838001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

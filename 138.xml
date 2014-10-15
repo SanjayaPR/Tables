@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>138</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Executor</Name>
+
+  <DocName>EXECUTOR</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>70001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>106</Layout_LayoutId>
+      <Layout_Title>Executor Relationship</Layout_Title>
+      <Table_TableId>138</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>916</Layout_LayoutId>
+      <Layout_Title>Executor Details</Layout_Title>
+      <Table_TableId>138</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1004</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>916</Layout_LayoutId>
+      <Layout_Title>Executor Details</Layout_Title>
+      <Table_TableId>138</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>375</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>916</Layout_LayoutId>
+      <Layout_Title>Executor Details</Layout_Title>
+      <Table_TableId>138</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>779</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1337</Layout_LayoutId>
+      <Layout_Title>Executor relationship</Layout_Title>
+      <Table_TableId>138</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

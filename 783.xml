@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>783</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>NT_LPI</Name>
+
+  <DocName>NT_LPI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>672001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1013</Layout_LayoutId>
+      <Layout_Title>Title Search</Layout_Title>
+      <Table_TableId>783</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1036</Layout_LayoutId>
+      <Layout_Title>Dealing</Layout_Title>
+      <Table_TableId>783</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

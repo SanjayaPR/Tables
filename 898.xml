@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>898</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Executor's Insurer</Name>
+
+  <DocName>EXECUTOR_S_INS</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>787001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

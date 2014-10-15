@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>709</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Livestock Health and Pest Auth</Name>
+
+  <DocName>LIVESTOCK_HEAL</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>598001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

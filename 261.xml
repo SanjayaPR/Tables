@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>261</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Settlement Details - WC</Name>
+
+  <DocName>SETTLEMENT_DET</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>180001</OSUniqueId>
+
+  <Singleton>true</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>150</Layout_LayoutId>
+      <Layout_Title>Settlement Details</Layout_Title>
+      <Table_TableId>261</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

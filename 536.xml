@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>536</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>ASIC Information</Name>
+
+  <DocName>ASIC_INFORMATI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>426001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>453</Layout_LayoutId>
+      <Layout_Title>Organisation Name Search</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>454</Layout_LayoutId>
+      <Layout_Title>Personal Name Extract</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>455</Layout_LayoutId>
+      <Layout_Title>Organisation Extract</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>456</Layout_LayoutId>
+      <Layout_Title>Personal Name Search</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>469</Layout_LayoutId>
+      <Layout_Title>Document Details</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>470</Layout_LayoutId>
+      <Layout_Title>Document Image</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>483</Layout_LayoutId>
+      <Layout_Title>Professional Registers Browse</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>484</Layout_LayoutId>
+      <Layout_Title>Pro Registers Extract</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>485</Layout_LayoutId>
+      <Layout_Title>Disq &amp; Banned Extract</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>486</Layout_LayoutId>
+      <Layout_Title>Auth Reps Extract</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>487</Layout_LayoutId>
+      <Layout_Title>Disq &amp; Banned Browse</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>488</Layout_LayoutId>
+      <Layout_Title>Auth Reps Browse</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>490</Layout_LayoutId>
+      <Layout_Title>ITSA Browse</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>971</Layout_LayoutId>
+      <Layout_Title>Business Names</Layout_Title>
+      <Table_TableId>536</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

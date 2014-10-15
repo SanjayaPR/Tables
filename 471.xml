@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>471</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Discharge Details</Name>
+
+  <DocName>DISCHARGE_DETA</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>361001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>385</Layout_LayoutId>
+      <Layout_Title>Discharge Details</Layout_Title>
+      <Table_TableId>471</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>226</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>641</Layout_LayoutId>
+      <Layout_Title>Discharge Details</Layout_Title>
+      <Table_TableId>471</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>505</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>641</Layout_LayoutId>
+      <Layout_Title>Discharge Details</Layout_Title>
+      <Table_TableId>471</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

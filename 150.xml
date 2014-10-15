@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>150</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Beneficiary</Name>
+
+  <DocName>BENEFICIARY</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>81001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>105</Layout_LayoutId>
+      <Layout_Title>Entitlement</Layout_Title>
+      <Table_TableId>150</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>342</Layout_LayoutId>
+      <Layout_Title>Bequest</Layout_Title>
+      <Table_TableId>150</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>24</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>342</Layout_LayoutId>
+      <Layout_Title>Bequest</Layout_Title>
+      <Table_TableId>150</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

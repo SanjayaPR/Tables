@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>734</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Loan Advance Details</Name>
+
+  <DocName>LOAN_ADVANCE_D</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>623001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>865</Layout_LayoutId>
+      <Layout_Title>Loan Advance Details</Layout_Title>
+      <Table_TableId>734</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

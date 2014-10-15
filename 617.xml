@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>617</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Franchise Details</Name>
+
+  <DocName>FRANCHISE_DETA</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>506001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>586</Layout_LayoutId>
+      <Layout_Title>Franchise Details</Layout_Title>
+      <Table_TableId>617</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

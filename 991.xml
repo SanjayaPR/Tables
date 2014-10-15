@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>991</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Debtor [for accounting]</Name>
+
+  <DocName>DEBTOR_FOR_ACC</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>880001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

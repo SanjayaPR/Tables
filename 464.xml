@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>464</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>AFIG Mortgage Details</Name>
+
+  <DocName>AMS_DETAILS</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>354001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>375</Layout_LayoutId>
+      <Layout_Title>AMS Details</Layout_Title>
+      <Table_TableId>464</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>847</Layout_LayoutId>
+      <Layout_Title>AFIG Amended &amp; Restated Details</Layout_Title>
+      <Table_TableId>464</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>745</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>847</Layout_LayoutId>
+      <Layout_Title>AFIG Amended &amp; Restated Details</Layout_Title>
+      <Table_TableId>464</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>225</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

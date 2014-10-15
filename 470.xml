@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>470</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Cross-Defendant</Name>
+
+  <DocName>CROSS_DEF</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>360001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1441</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>470</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>69</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>125</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1441</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>470</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>69</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>346</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1441</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>470</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>70</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>124</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1441</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>470</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>29</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>123</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1441</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>470</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>29</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>343</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1441</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>470</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>15</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>53</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

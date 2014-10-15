@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>609</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Cross-Claimant's Solicitor</Name>
+
+  <DocName>CROS_CLAM_SOL</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>498001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

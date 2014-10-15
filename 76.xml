@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>76</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Rent</Name>
+
+  <DocName>RENT</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>39001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>51</Layout_LayoutId>
+      <Layout_Title>Rent</Layout_Title>
+      <Table_TableId>76</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1538</Layout_LayoutId>
+      <Layout_Title>Rent</Layout_Title>
+      <Table_TableId>76</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1247</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1538</Layout_LayoutId>
+      <Layout_Title>Rent</Layout_Title>
+      <Table_TableId>76</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1246</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

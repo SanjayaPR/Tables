@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>465</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>AFIG Fees &amp; Charges</Name>
+
+  <DocName>AMS_FEES_CHAR</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>355001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>374</Layout_LayoutId>
+      <Layout_Title>Fees &amp; Charges</Layout_Title>
+      <Table_TableId>465</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

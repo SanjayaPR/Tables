@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>594</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Plaintiff to CounterClaim</Name>
+
+  <DocName>PLAINTIFF_TO_C</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>483001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

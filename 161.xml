@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>161</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Attorney</Name>
+
+  <DocName>ATTORNEY</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>92001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>211</Layout_LayoutId>
+      <Layout_Title>Details</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>81</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>760</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>658</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>659</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1096</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>702</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>701</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1093</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1097</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1095</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>654</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>512</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1241</Layout_LayoutId>
+      <Layout_Title>Registered No.</Layout_Title>
+      <Table_TableId>161</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

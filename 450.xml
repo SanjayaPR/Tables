@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>450</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Sett. Details for ID</Name>
+
+  <DocName>SETT_DETAILS_F</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>340001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>362</Layout_LayoutId>
+      <Layout_Title>Sett. Details for ID</Layout_Title>
+      <Table_TableId>450</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>79</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>389</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>362</Layout_LayoutId>
+      <Layout_Title>Sett. Details for ID</Layout_Title>
+      <Table_TableId>450</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>22</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>170</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

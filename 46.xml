@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>46</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Mortgage Details</Name>
+
+  <DocName>MORTGAGE_DETAI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>34001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>27</Layout_LayoutId>
+      <Layout_Title>Mortgage Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>872</Layout_LayoutId>
+      <Layout_Title>Mortgage Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>592</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>872</Layout_LayoutId>
+      <Layout_Title>Mortgage Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>598</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>872</Layout_LayoutId>
+      <Layout_Title>Mortgage Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>423</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>873</Layout_LayoutId>
+      <Layout_Title>Refinance/Variation Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>604</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>873</Layout_LayoutId>
+      <Layout_Title>Refinance/Variation Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>601</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>873</Layout_LayoutId>
+      <Layout_Title>Refinance/Variation Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>418</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>873</Layout_LayoutId>
+      <Layout_Title>Refinance/Variation Details</Layout_Title>
+      <Table_TableId>46</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>420</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

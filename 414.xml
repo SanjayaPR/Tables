@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>414</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Property details</Name>
+
+  <DocName>APPLICANT_PROP</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>304001</OSUniqueId>
+
+  <Singleton>true</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>327</Layout_LayoutId>
+      <Layout_Title>Property Details</Layout_Title>
+      <Table_TableId>414</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>327</Layout_LayoutId>
+      <Layout_Title>Property Details</Layout_Title>
+      <Table_TableId>414</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

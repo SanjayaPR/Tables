@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>708</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>QLD_LPI</Name>
+
+  <DocName>QLD_LPI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>597001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>838</Layout_LayoutId>
+      <Layout_Title>QLDLPI_LotPlanStatus</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>839</Layout_LayoutId>
+      <Layout_Title>QLDLPI_StreetAddress</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>840</Layout_LayoutId>
+      <Layout_Title>QLDLPI_TitleImage</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>841</Layout_LayoutId>
+      <Layout_Title>QLDLPI_Title</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>842</Layout_LayoutId>
+      <Layout_Title>QLDLPI_TitleStatus</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>883</Layout_LayoutId>
+      <Layout_Title>QLD Previous Title Status</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>884</Layout_LayoutId>
+      <Layout_Title>QLD Plan Status</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>885</Layout_LayoutId>
+      <Layout_Title>QLD Owner Name Search</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>886</Layout_LayoutId>
+      <Layout_Title>QLD Historical Search</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>887</Layout_LayoutId>
+      <Layout_Title>QLD Building Status</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>888</Layout_LayoutId>
+      <Layout_Title>QLD BUP/GTP Search</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>889</Layout_LayoutId>
+      <Layout_Title>QLD CMS Status</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>890</Layout_LayoutId>
+      <Layout_Title>QLD CMS Search</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>891</Layout_LayoutId>
+      <Layout_Title>QLD Dealing Status</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>893</Layout_LayoutId>
+      <Layout_Title>QLD Dealing Search</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>894</Layout_LayoutId>
+      <Layout_Title>QLD Power of Attorney Status</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>895</Layout_LayoutId>
+      <Layout_Title>QLD Power of Attorney</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>896</Layout_LayoutId>
+      <Layout_Title>QLD Dealing Image</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>897</Layout_LayoutId>
+      <Layout_Title>QLD Pre ATS Dealing Image</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>898</Layout_LayoutId>
+      <Layout_Title>QLD Plan Image</Layout_Title>
+      <Table_TableId>708</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>375</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Money owed</Name>
+
+  <DocName>MONEY_OWED</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>265001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>219</Layout_LayoutId>
+      <Layout_Title>Money owed to you</Layout_Title>
+      <Table_TableId>375</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

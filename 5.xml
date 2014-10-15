@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>5</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Agent</Name>
+
+  <DocName>AGENT</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>19001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>248</Layout_LayoutId>
+      <Layout_Title>Marketing/Trust Details</Layout_Title>
+      <Table_TableId>5</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1147</Layout_LayoutId>
+      <Layout_Title>Commission</Layout_Title>
+      <Table_TableId>5</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>2</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1147</Layout_LayoutId>
+      <Layout_Title>Commission</Layout_Title>
+      <Table_TableId>5</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1147</Layout_LayoutId>
+      <Layout_Title>Commission</Layout_Title>
+      <Table_TableId>5</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>827</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1147</Layout_LayoutId>
+      <Layout_Title>Commission</Layout_Title>
+      <Table_TableId>5</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1107</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1147</Layout_LayoutId>
+      <Layout_Title>Commission</Layout_Title>
+      <Table_TableId>5</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>352</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1147</Layout_LayoutId>
+      <Layout_Title>Commission</Layout_Title>
+      <Table_TableId>5</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>353</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

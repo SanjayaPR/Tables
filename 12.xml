@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>12</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Incoming Mtgee Solicitor</Name>
+
+  <DocName>IN_MTGEE_SOL</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>23001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

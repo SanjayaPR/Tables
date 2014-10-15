@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>984</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Mining Details</Name>
+
+  <DocName>MINING_DETAILS</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>873001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1541</Layout_LayoutId>
+      <Layout_Title>Mining Details</Layout_Title>
+      <Table_TableId>984</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>97</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>874</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

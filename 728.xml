@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>728</TableId>
+
+  <DeleteCode>1879075611</DeleteCode>
+
+  <Name>xxxMortgage Servicerxxx</Name>
+
+  <DocName>XXXMORTG_SERVI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>617001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>858</Layout_LayoutId>
+      <Layout_Title>Mortgage Servicer is</Layout_Title>
+      <Table_TableId>728</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

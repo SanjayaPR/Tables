@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>632</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Legal Rates - QLD</Name>
+
+  <DocName>LEGAL_RATES_QL</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>521001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>609</Layout_LayoutId>
+      <Layout_Title>Legal Rates - QLD</Layout_Title>
+      <Table_TableId>632</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

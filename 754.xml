@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>754</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Partner F's Sub Trustee</Name>
+
+  <DocName>PARTNER_F_S_SU</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>643001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

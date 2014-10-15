@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>188</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Injuries</Name>
+
+  <DocName>INJURIES</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>117001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>122</Layout_LayoutId>
+      <Layout_Title>Injuries</Layout_Title>
+      <Table_TableId>188</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1515</Layout_LayoutId>
+      <Layout_Title>Injuries - Workers Comp</Layout_Title>
+      <Table_TableId>188</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>22</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>878</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1515</Layout_LayoutId>
+      <Layout_Title>Injuries - Workers Comp</Layout_Title>
+      <Table_TableId>188</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>79</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>877</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1515</Layout_LayoutId>
+      <Layout_Title>Injuries - Workers Comp</Layout_Title>
+      <Table_TableId>188</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>22</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>99</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1515</Layout_LayoutId>
+      <Layout_Title>Injuries - Workers Comp</Layout_Title>
+      <Table_TableId>188</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>79</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>385</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

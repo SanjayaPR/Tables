@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>322</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Wife's app guardian</Name>
+
+  <DocName>WIFE_S_APP_GUA</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>5001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1357</Layout_LayoutId>
+      <Layout_Title>Relationship to Willmaker</Layout_Title>
+      <Table_TableId>322</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1131</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1357</Layout_LayoutId>
+      <Layout_Title>Relationship to Willmaker</Layout_Title>
+      <Table_TableId>322</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1116</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

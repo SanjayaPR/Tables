@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>500</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Liquor Licence Details</Name>
+
+  <DocName>LIQ_LICENCE</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>390001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>430</Layout_LayoutId>
+      <Layout_Title>Liquor and Gaming Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>835</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>430</Layout_LayoutId>
+      <Layout_Title>Liquor and Gaming Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>836</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>430</Layout_LayoutId>
+      <Layout_Title>Liquor and Gaming Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>834</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>430</Layout_LayoutId>
+      <Layout_Title>Liquor and Gaming Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>833</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>430</Layout_LayoutId>
+      <Layout_Title>Liquor and Gaming Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>280</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>430</Layout_LayoutId>
+      <Layout_Title>Liquor and Gaming Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>590</Layout_LayoutId>
+      <Layout_Title>Licence/Permit Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1567</Layout_LayoutId>
+      <Layout_Title>Liquor Licence Details</Layout_Title>
+      <Table_TableId>500</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1291</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

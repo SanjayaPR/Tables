@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>158</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Trustee</Name>
+
+  <DocName>TRUSTEE</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>89001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>648</Layout_LayoutId>
+      <Layout_Title>Trust Details</Layout_Title>
+      <Table_TableId>158</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>493</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>648</Layout_LayoutId>
+      <Layout_Title>Trust Details</Layout_Title>
+      <Table_TableId>158</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>503</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1026</Layout_LayoutId>
+      <Layout_Title>Relationship</Layout_Title>
+      <Table_TableId>158</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

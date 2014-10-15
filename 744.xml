@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>744</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Substitute Executor</Name>
+
+  <DocName>SUB_EXEC</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>633001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>918</Layout_LayoutId>
+      <Layout_Title>Details</Layout_Title>
+      <Table_TableId>744</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1338</Layout_LayoutId>
+      <Layout_Title>Sub executor relationship</Layout_Title>
+      <Table_TableId>744</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2216</Layout_LayoutId>
+      <Layout_Title>Substitute Executor Details</Layout_Title>
+      <Table_TableId>744</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>375</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

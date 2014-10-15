@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>564</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Title Particulars</Name>
+
+  <DocName>TITLE_PARTICUL</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>454001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>497</Layout_LayoutId>
+      <Layout_Title>Title Particulars</Layout_Title>
+      <Table_TableId>564</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>15</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>241</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>497</Layout_LayoutId>
+      <Layout_Title>Title Particulars</Layout_Title>
+      <Table_TableId>564</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1636</Layout_LayoutId>
+      <Layout_Title>Title Particulars</Layout_Title>
+      <Table_TableId>564</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1223</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1636</Layout_LayoutId>
+      <Layout_Title>Title Particulars</Layout_Title>
+      <Table_TableId>564</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>525</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1636</Layout_LayoutId>
+      <Layout_Title>Title Particulars</Layout_Title>
+      <Table_TableId>564</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>132</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1636</Layout_LayoutId>
+      <Layout_Title>Title Particulars</Layout_Title>
+      <Table_TableId>564</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>661</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

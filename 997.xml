@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>997</TableId>
+
+  <DeleteCode>1879214918</DeleteCode>
+
+  <Name>MG Brief information</Name>
+
+  <DocName>BRIEF_INFO</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>884001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>2024</Layout_LayoutId>
+      <Layout_Title>xMG Brief information</Layout_Title>
+      <Table_TableId>997</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>318</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2024</Layout_LayoutId>
+      <Layout_Title>xMG Brief information</Layout_Title>
+      <Table_TableId>997</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000007</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2024</Layout_LayoutId>
+      <Layout_Title>xMG Brief information</Layout_Title>
+      <Table_TableId>997</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>931</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2024</Layout_LayoutId>
+      <Layout_Title>xMG Brief information</Layout_Title>
+      <Table_TableId>997</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>535</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

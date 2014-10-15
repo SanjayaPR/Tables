@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>270</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Costs &amp; Disbursements</Name>
+
+  <DocName>COSTS_DISBURSE</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>188001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>161</Layout_LayoutId>
+      <Layout_Title>Costs and Disbursements</Layout_Title>
+      <Table_TableId>270</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

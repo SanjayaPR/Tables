@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>505</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Tribunal/Commission</Name>
+
+  <DocName>TRIBUNAL</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>395001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>444</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1266</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1216</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1266</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>22</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>964</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1430</Layout_LayoutId>
+      <Layout_Title>Proceeding number</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>100</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1169</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1430</Layout_LayoutId>
+      <Layout_Title>Proceeding number</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>100</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>919</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1454</Layout_LayoutId>
+      <Layout_Title>Tribunal Details</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>68</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1231</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1454</Layout_LayoutId>
+      <Layout_Title>Tribunal Details</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>68</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1225</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>424</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>410</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>409</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>408</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>407</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>406</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>405</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>404</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>403</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>402</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>401</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>400</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>399</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1547</Layout_LayoutId>
+      <Layout_Title>Tribunal No</Layout_Title>
+      <Table_TableId>505</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>398</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

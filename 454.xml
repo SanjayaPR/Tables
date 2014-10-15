@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>454</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Assets</Name>
+
+  <DocName>ASSETS</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>344001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>451</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1007</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1006</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1005</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1004</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1003</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1002</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>803</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>832</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>705</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>704</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>975</Layout_LayoutId>
+      <Layout_Title>Assets</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>377</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1638</Layout_LayoutId>
+      <Layout_Title>Asset Details</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1228</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1638</Layout_LayoutId>
+      <Layout_Title>Asset Details</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1103</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2231</Layout_LayoutId>
+      <Layout_Title>Asset Details</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>779</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2231</Layout_LayoutId>
+      <Layout_Title>Asset Details</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>375</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2231</Layout_LayoutId>
+      <Layout_Title>Asset Details</Layout_Title>
+      <Table_TableId>454</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>376</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

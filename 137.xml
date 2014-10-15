@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>137</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Deceased</Name>
+
+  <DocName>DECEASED</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>69001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>915</Layout_LayoutId>
+      <Layout_Title>Deceased Details</Layout_Title>
+      <Table_TableId>137</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>779</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>915</Layout_LayoutId>
+      <Layout_Title>Deceased Details</Layout_Title>
+      <Table_TableId>137</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>375</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1513</Layout_LayoutId>
+      <Layout_Title>Deceased - details in Will</Layout_Title>
+      <Table_TableId>137</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1228</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1513</Layout_LayoutId>
+      <Layout_Title>Deceased - details in Will</Layout_Title>
+      <Table_TableId>137</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1103</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2220</Layout_LayoutId>
+      <Layout_Title>Deceased Details</Layout_Title>
+      <Table_TableId>137</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>376</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

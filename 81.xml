@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>81</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Lease (Business)</Name>
+
+  <DocName>LEASE_BUSINESS</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>41001</OSUniqueId>
+
+  <Singleton>true</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>56</Layout_LayoutId>
+      <Layout_Title>Lease (Business)</Layout_Title>
+      <Table_TableId>81</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2074</Layout_LayoutId>
+      <Layout_Title>Lease (Business)</Layout_Title>
+      <Table_TableId>81</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>421</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2074</Layout_LayoutId>
+      <Layout_Title>Lease (Business)</Layout_Title>
+      <Table_TableId>81</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>422</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>657</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Judge Debtor Solicitor</Name>
+
+  <DocName>JUDGE_DEBTOR_S</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>546001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

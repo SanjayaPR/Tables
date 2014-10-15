@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>986</TableId>
+
+  <DeleteCode>1879170758</DeleteCode>
+
+  <Name>Legal Rates Test</Name>
+
+  <DocName>LEGAL_RATES_TE</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>875001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1598</Layout_LayoutId>
+      <Layout_Title>Legal rates test</Layout_Title>
+      <Table_TableId>986</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

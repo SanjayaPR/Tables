@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>672</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Legal Rates - ACT</Name>
+
+  <DocName>LEGAL_RATES_AC</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>561001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>724</Layout_LayoutId>
+      <Layout_Title>Legal Rates - ACT</Layout_Title>
+      <Table_TableId>672</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

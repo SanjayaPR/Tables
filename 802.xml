@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>802</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Alternative Attorney</Name>
+
+  <DocName>ALT_ATTORNEY</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>691001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1443</Layout_LayoutId>
+      <Layout_Title>Relationship to maker of POA</Layout_Title>
+      <Table_TableId>802</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>510</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1443</Layout_LayoutId>
+      <Layout_Title>Relationship to maker of POA</Layout_Title>
+      <Table_TableId>802</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>438</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

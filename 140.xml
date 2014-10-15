@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>140</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Estate Details</Name>
+
+  <DocName>ESTATE_DET</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>72001</OSUniqueId>
+
+  <Singleton>true</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>97</Layout_LayoutId>
+      <Layout_Title>Probate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>97</Layout_LayoutId>
+      <Layout_Title>Probate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>72</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>208</Layout_LayoutId>
+      <Layout_Title>Reseal Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>81</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>210</Layout_LayoutId>
+      <Layout_Title>Letters of Administration</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>482</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>210</Layout_LayoutId>
+      <Layout_Title>Letters of Administration</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>74</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>498</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1009</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>498</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1006</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>498</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1004</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>498</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>926</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>498</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>375</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>748</Layout_LayoutId>
+      <Layout_Title>Probate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>638</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>748</Layout_LayoutId>
+      <Layout_Title>Probate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>807</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>748</Layout_LayoutId>
+      <Layout_Title>Probate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>723</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>748</Layout_LayoutId>
+      <Layout_Title>Probate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>635</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>751</Layout_LayoutId>
+      <Layout_Title>Letters of Administration</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>636</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>752</Layout_LayoutId>
+      <Layout_Title>Reseal Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>637</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1081</Layout_LayoutId>
+      <Layout_Title>Statute of Limitation</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>235</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1510</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1112</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1510</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1101</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1510</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1244</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1510</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1242</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1510</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1228</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1510</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1103</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2221</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>779</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2224</Layout_LayoutId>
+      <Layout_Title>Estate Details</Layout_Title>
+      <Table_TableId>140</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>376</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

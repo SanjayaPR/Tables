@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>820</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Resp (Appeal) Solicitor</Name>
+
+  <DocName>RESP_APPEAL_SO</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>709001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

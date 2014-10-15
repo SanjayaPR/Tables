@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>827</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Accused</Name>
+
+  <DocName>ACCUSED</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>716001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000012</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000011</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000010</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000009</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>73</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000008</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>535</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>931</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000007</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2021</Layout_LayoutId>
+      <Layout_Title>Accused's details</Layout_Title>
+      <Table_TableId>827</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>318</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

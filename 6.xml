@@ -1,0 +1,2759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>6</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Property</Name>
+
+  <DocName>PROPERTY</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>20001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>492</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>72</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>74</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>81</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>222</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>235</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>219</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>802</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>306</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>307</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>342</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>305</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>184</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>36</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>152</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>890</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>475</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>474</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>473</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>471</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>470</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>469</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>468</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>367</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>141</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>684</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>683</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>142</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>502</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>685</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>686</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>143</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>156</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>155</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>145</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>36</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>35</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1</Layout_LayoutId>
+      <Layout_Title>Property (NSW Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>2</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>238</Layout_LayoutId>
+      <Layout_Title>Property (NSW Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>203</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>238</Layout_LayoutId>
+      <Layout_Title>Property (NSW Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>238</Layout_LayoutId>
+      <Layout_Title>Property (NSW Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>395</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>238</Layout_LayoutId>
+      <Layout_Title>Property (NSW Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>164</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>238</Layout_LayoutId>
+      <Layout_Title>Property (NSW Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>163</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>238</Layout_LayoutId>
+      <Layout_Title>Property (NSW Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>238</Layout_LayoutId>
+      <Layout_Title>Property (NSW Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>126</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>15</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>241</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>926</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>762</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>29</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1049</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1048</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1046</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1047</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1021</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1011</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>840</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>757</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>605</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>602</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>596</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>593</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>599</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>571</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>568</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>565</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>562</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>36</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>559</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>552</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>546</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>543</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>350</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>487</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>58</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>439</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>430</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>428</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>82</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>55</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>243</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>407</Layout_LayoutId>
+      <Layout_Title>Property (VIC Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>243</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>89</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>782</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>705</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>704</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>377</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>803</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>577</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>574</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1204</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>472</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>438</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>510</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>808</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1189</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>376</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>779</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>375</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1175</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>549</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>412</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>426</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>425</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>351</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>55</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>242</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>832</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>408</Layout_LayoutId>
+      <Layout_Title>Property (VIC Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>242</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>575</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>572</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>518</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>523</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>521</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1203</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>916</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>915</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>914</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>913</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>912</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>911</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>910</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>909</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>69</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>270</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>70</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>431</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>483</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>482</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>481</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>479</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>478</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>480</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>442</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>476</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>264</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>547</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>908</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>422</Layout_LayoutId>
+      <Layout_Title>Property (ACT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>262</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1081</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>903</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>477</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>569</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>566</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>563</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>560</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>36</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>557</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>550</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>544</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>541</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>515</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>263</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>423</Layout_LayoutId>
+      <Layout_Title>Property (ACT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>809</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>448</Layout_LayoutId>
+      <Layout_Title>Security Property</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>204</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>448</Layout_LayoutId>
+      <Layout_Title>Security Property</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>448</Layout_LayoutId>
+      <Layout_Title>Security Property</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>6</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>448</Layout_LayoutId>
+      <Layout_Title>Security Property</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>276</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>86</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>687</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>576</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>573</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>638</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>637</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>636</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>807</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>635</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>519</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>524</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>522</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>748</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>893</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>894</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>897</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>898</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>900</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>899</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>896</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>895</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>892</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>548</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>421</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>354</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>557</Layout_LayoutId>
+      <Layout_Title>Property (QLD Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>352</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>701</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>702</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>760</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1093</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1094</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1095</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1096</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1097</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>512</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>658</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>21</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>659</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>777</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>883</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>838</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>27</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>717</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>774</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>770</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>723</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>29</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>507</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>29</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>539</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>15</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>491</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>70</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>634</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>69</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>488</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>570</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>567</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>561</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>564</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>36</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>558</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>551</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>545</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>83</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>542</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>417</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>420</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>422</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>416</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>423</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>558</Layout_LayoutId>
+      <Layout_Title>Property (QLD Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>353</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>418</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>744</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>745</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>746</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>604</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>601</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>595</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>592</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>874</Layout_LayoutId>
+      <Layout_Title>Property (QLD Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>598</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>876</Layout_LayoutId>
+      <Layout_Title>Property (ACT Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>603</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>876</Layout_LayoutId>
+      <Layout_Title>Property (ACT Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>600</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>876</Layout_LayoutId>
+      <Layout_Title>Property (ACT Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>594</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>876</Layout_LayoutId>
+      <Layout_Title>Property (ACT Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>591</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>876</Layout_LayoutId>
+      <Layout_Title>Property (ACT Mortgage)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>597</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>33</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>217</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>85</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>501</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>33</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>236</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1223</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1209</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1202</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>84</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1201</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1200</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1208</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>136</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>284</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>160</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>113</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>139</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>133</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>140</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>138</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>134</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>137</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>252</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1077</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>907</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>467</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>516</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>525</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>520</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>132</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>319</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>135</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>661</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1160</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1157</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1156</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1155</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1154</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1153</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>24</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1085</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>905</Layout_LayoutId>
+      <Layout_Title>Property (All States)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>27</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>506</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1085</Layout_LayoutId>
+      <Layout_Title>Property (NT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>888</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1085</Layout_LayoutId>
+      <Layout_Title>Property (NT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>887</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1085</Layout_LayoutId>
+      <Layout_Title>Property (NT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>829</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1085</Layout_LayoutId>
+      <Layout_Title>Property (NT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>828</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1085</Layout_LayoutId>
+      <Layout_Title>Property (NT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>826</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1085</Layout_LayoutId>
+      <Layout_Title>Property (NT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>825</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1085</Layout_LayoutId>
+      <Layout_Title>Property (NT Purchase)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>754</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1087</Layout_LayoutId>
+      <Layout_Title>Property (NT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1188</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1087</Layout_LayoutId>
+      <Layout_Title>Property (NT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>824</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1087</Layout_LayoutId>
+      <Layout_Title>Property (NT Sale)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>827</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1009</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1007</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1006</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1005</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1004</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1003</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1001</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1000</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>966</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>965</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>976</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>997</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>996</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>32</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>998</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1054</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1055</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1051</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1052</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>45</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1053</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1002</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>983</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>982</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>981</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>979</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>978</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>980</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>977</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>975</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>974</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>902</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1220</Layout_LayoutId>
+      <Layout_Title>Property (TAS)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>751</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1217</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1228</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1216</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>74</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1218</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1173</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1112</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1111</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1103</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1101</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1170</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1168</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1164</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1163</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1162</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1139</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1119</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1118</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1115</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1107</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1463</Layout_LayoutId>
+      <Layout_Title>Property (SA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>753</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>68</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000061</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>872</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1247</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1246</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1245</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>19</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>844</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1172</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1222</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1221</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1171</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>876</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>885</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>870</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1465</Layout_LayoutId>
+      <Layout_Title>Property (WA)</Layout_Title>
+      <Table_TableId>6</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>752</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

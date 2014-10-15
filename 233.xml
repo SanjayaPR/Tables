@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>233</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Purchaser</Name>
+
+  <DocName>PURCHASER</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>158001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1460</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>233</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>430</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1460</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>233</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>412</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1460</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>233</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>242</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1460</Layout_LayoutId>
+      <Layout_Title>Role</Layout_Title>
+      <Table_TableId>233</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>243</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

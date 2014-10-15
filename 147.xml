@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>147</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Vendor's Cost Sheet</Name>
+
+  <DocName>VENDORS_COST_S</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>79001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>104</Layout_LayoutId>
+      <Layout_Title>Vendors Costs Sheet</Layout_Title>
+      <Table_TableId>147</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

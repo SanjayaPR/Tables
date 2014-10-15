@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>1000</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Arresting officer</Name>
+
+  <DocName>ARRESTING_OFFI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>890001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>2040</Layout_LayoutId>
+      <Layout_Title>Arresting officer details</Layout_Title>
+      <Table_TableId>1000</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000052</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2040</Layout_LayoutId>
+      <Layout_Title>Arresting officer details</Layout_Title>
+      <Table_TableId>1000</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000050</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2040</Layout_LayoutId>
+      <Layout_Title>Arresting officer details</Layout_Title>
+      <Table_TableId>1000</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000049</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2040</Layout_LayoutId>
+      <Layout_Title>Arresting officer details</Layout_Title>
+      <Table_TableId>1000</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000048</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2040</Layout_LayoutId>
+      <Layout_Title>Arresting officer details</Layout_Title>
+      <Table_TableId>1000</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>534</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2040</Layout_LayoutId>
+      <Layout_Title>Arresting officer details</Layout_Title>
+      <Table_TableId>1000</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000047</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2040</Layout_LayoutId>
+      <Layout_Title>Arresting officer details</Layout_Title>
+      <Table_TableId>1000</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000046</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

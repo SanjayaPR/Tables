@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>780</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>SA_LPI</Name>
+
+  <DocName>SA_LPI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>669001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1009</Layout_LayoutId>
+      <Layout_Title>SA Title Search</Layout_Title>
+      <Table_TableId>780</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1046</Layout_LayoutId>
+      <Layout_Title>SA Dealing</Layout_Title>
+      <Table_TableId>780</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1047</Layout_LayoutId>
+      <Layout_Title>SA Plan</Layout_Title>
+      <Table_TableId>780</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1048</Layout_LayoutId>
+      <Layout_Title>SA Street Address Search</Layout_Title>
+      <Table_TableId>780</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

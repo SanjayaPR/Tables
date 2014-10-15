@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>999</TableId>
+
+  <DeleteCode>1879214927</DeleteCode>
+
+  <Name>MG Useful dates</Name>
+
+  <DocName>USEFUL_DATES</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>889001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>535</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000012</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000011</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000010</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000009</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>931</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>73</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000008</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2027</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000007</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2047</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000052</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2047</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000050</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2047</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000049</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2047</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000048</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2047</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>534</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2047</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000047</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2047</Layout_LayoutId>
+      <Layout_Title>xMG Useful dates</Layout_Title>
+      <Table_TableId>999</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>35</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>5000046</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

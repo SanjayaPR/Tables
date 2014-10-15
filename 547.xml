@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>547</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Sale Reconciliation</Name>
+
+  <DocName>SALE_RECONCILI</DocName>
+
+  <Transaction>true</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>437001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>477</Layout_LayoutId>
+      <Layout_Title>Sale Reconciliation</Layout_Title>
+      <Table_TableId>547</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

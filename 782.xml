@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>782</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>TAS_LPI</Name>
+
+  <DocName>TAS_LPI</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>671001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1012</Layout_LayoutId>
+      <Layout_Title>Title Search</Layout_Title>
+      <Table_TableId>782</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1041</Layout_LayoutId>
+      <Layout_Title>TAS Dealing</Layout_Title>
+      <Table_TableId>782</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1042</Layout_LayoutId>
+      <Layout_Title>TAS Folio Plan</Layout_Title>
+      <Table_TableId>782</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1043</Layout_LayoutId>
+      <Layout_Title>TAS Schedule of Easement</Layout_Title>
+      <Table_TableId>782</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1044</Layout_LayoutId>
+      <Layout_Title>TAS Title Search &amp; Plan</Layout_Title>
+      <Table_TableId>782</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1056</Layout_LayoutId>
+      <Layout_Title>TAS Purchasers' Index Search</Layout_Title>
+      <Table_TableId>782</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>867</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Insurer</Name>
+
+  <DocName>INSURER</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>756001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1514</Layout_LayoutId>
+      <Layout_Title>Insurer - Workers Comp</Layout_Title>
+      <Table_TableId>867</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>22</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>878</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1514</Layout_LayoutId>
+      <Layout_Title>Insurer - Workers Comp</Layout_Title>
+      <Table_TableId>867</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>79</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>877</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1514</Layout_LayoutId>
+      <Layout_Title>Insurer - Workers Comp</Layout_Title>
+      <Table_TableId>867</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>22</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>99</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1514</Layout_LayoutId>
+      <Layout_Title>Insurer - Workers Comp</Layout_Title>
+      <Table_TableId>867</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>79</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>385</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

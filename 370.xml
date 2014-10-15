@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>370</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Policies Super/Insurance</Name>
+
+  <DocName>POLICIES_SUPER</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>260001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>216</Layout_LayoutId>
+      <Layout_Title>Insurance &amp; Superannuation Policies</Layout_Title>
+      <Table_TableId>370</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

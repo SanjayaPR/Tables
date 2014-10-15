@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>221</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Child</Name>
+
+  <DocName>CHILD</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>148001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>147</Layout_LayoutId>
+      <Layout_Title>Childs Details</Layout_Title>
+      <Table_TableId>221</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>147</Layout_LayoutId>
+      <Layout_Title>Childs Details</Layout_Title>
+      <Table_TableId>221</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>28</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>182</Layout_LayoutId>
+      <Layout_Title>Childs Details</Layout_Title>
+      <Table_TableId>221</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>29</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>125</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

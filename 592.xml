@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>592</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Legal Rates, Charges etc</Name>
+
+  <DocName>LEGAL_RATESCH</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>0</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

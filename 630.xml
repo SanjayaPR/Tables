@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>630</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Criminal Appeal Details</Name>
+
+  <DocName>CRIMINAL_APPEA</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>519001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>603</Layout_LayoutId>
+      <Layout_Title>Criminal Appeal Details</Layout_Title>
+      <Table_TableId>630</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

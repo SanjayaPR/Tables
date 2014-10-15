@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>677</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Initial Unit Holder</Name>
+
+  <DocName>INITIAL_UNIT_H</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>566001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>734</Layout_LayoutId>
+      <Layout_Title>Unit Holder Details</Layout_Title>
+      <Table_TableId>677</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

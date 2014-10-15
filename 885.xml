@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>885</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Deceased Executor</Name>
+
+  <DocName>DEC_EXEC</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>774001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>2219</Layout_LayoutId>
+      <Layout_Title>Deceased Executor Details</Layout_Title>
+      <Table_TableId>885</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>375</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2219</Layout_LayoutId>
+      <Layout_Title>Deceased Executor Details</Layout_Title>
+      <Table_TableId>885</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>18</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>779</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

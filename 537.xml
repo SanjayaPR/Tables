@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>537</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Admin Tribunal Forms</Name>
+
+  <DocName>ADMIN_TRIBUNAL</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>427001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>457</Layout_LayoutId>
+      <Layout_Title>Forms</Layout_Title>
+      <Table_TableId>537</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>68</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>364</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>457</Layout_LayoutId>
+      <Layout_Title>Forms</Layout_Title>
+      <Table_TableId>537</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>457</Layout_LayoutId>
+      <Layout_Title>Forms</Layout_Title>
+      <Table_TableId>537</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>68</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>365</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>468</Layout_LayoutId>
+      <Layout_Title>Admin. Decisions Tribunal</Layout_Title>
+      <Table_TableId>537</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>75</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>371</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>468</Layout_LayoutId>
+      <Layout_Title>Admin. Decisions Tribunal</Layout_Title>
+      <Table_TableId>537</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>68</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>371</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

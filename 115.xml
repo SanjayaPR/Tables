@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>115</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Invoice</Name>
+
+  <DocName>INVOICE</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>65001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>82</Layout_LayoutId>
+      <Layout_Title>Amount Payable</Layout_Title>
+      <Table_TableId>115</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1459</Layout_LayoutId>
+      <Layout_Title>Invoice amount</Layout_Title>
+      <Table_TableId>115</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>70</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>414</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1459</Layout_LayoutId>
+      <Layout_Title>Invoice amount</Layout_Title>
+      <Table_TableId>115</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>15</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>241</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

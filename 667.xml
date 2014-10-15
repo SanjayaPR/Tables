@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>667</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Power of Attorney Details</Name>
+
+  <DocName>POWER_OF_ATTOR</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>556001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>652</Layout_LayoutId>
+      <Layout_Title>Power of Attorney Details</Layout_Title>
+      <Table_TableId>667</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

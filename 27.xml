@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>27</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Lease Details</Name>
+
+  <DocName>LEASE_DETAILS</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>30001</OSUniqueId>
+
+  <Singleton>true</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>17</Layout_LayoutId>
+      <Layout_Title>Lease Details</Layout_Title>
+      <Table_TableId>27</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1142</Layout_LayoutId>
+      <Layout_Title>Lease Details</Layout_Title>
+      <Table_TableId>27</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>888</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1142</Layout_LayoutId>
+      <Layout_Title>Lease Details</Layout_Title>
+      <Table_TableId>27</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>3</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>887</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1534</Layout_LayoutId>
+      <Layout_Title>Lease Details</Layout_Title>
+      <Table_TableId>27</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1247</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1534</Layout_LayoutId>
+      <Layout_Title>Lease Details</Layout_Title>
+      <Table_TableId>27</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1246</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

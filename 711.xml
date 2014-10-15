@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>711</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Plaintiff's Barrister</Name>
+
+  <DocName>PLAINTIFF_S_BA</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>600001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

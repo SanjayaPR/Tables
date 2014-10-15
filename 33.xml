@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>33</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Outgoings</Name>
+
+  <DocName>OUTGOINGS</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>32001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>24</Layout_LayoutId>
+      <Layout_Title>Outgoings</Layout_Title>
+      <Table_TableId>33</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1539</Layout_LayoutId>
+      <Layout_Title>Outgoings</Layout_Title>
+      <Table_TableId>33</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1247</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>1539</Layout_LayoutId>
+      <Layout_Title>Outgoings</Layout_Title>
+      <Table_TableId>33</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId>1</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>1246</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

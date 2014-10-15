@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>724</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Unsec. Creditor's Solicitor</Name>
+
+  <DocName>UNSEC_CREDITOR</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>613001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

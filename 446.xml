@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>446</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Sub-Lessee's Solicitor</Name>
+
+  <DocName>SUB_LESSEE_S_S</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>336001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts/>
+
+</Table>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>954</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Workcover</Name>
+
+  <DocName>WORKCOVER</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>true</BasedOnCard>
+
+  <OSUniqueId>843001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>2108</Layout_LayoutId>
+      <Layout_Title>Workcover Nos.</Layout_Title>
+      <Table_TableId>954</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>22</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>878</MatterType_MatterTypeId>
+    </TableLayout>
+    <TableLayout>
+      <Layout_LayoutId>2108</Layout_LayoutId>
+      <Layout_Title>Workcover Nos.</Layout_Title>
+      <Table_TableId>954</Table_TableId>
+      <ShownOnMatter>True</ShownOnMatter>
+      <MatterType_MatterCategoryId>79</MatterType_MatterCategoryId>
+      <MatterType_MatterTypeId>877</MatterType_MatterTypeId>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

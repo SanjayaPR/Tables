@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>272</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Legal Rates - NSW</Name>
+
+  <DocName>LEGAL_RATES_CH</DocName>
+
+  <Transaction>false</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>190001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>169</Layout_LayoutId>
+      <Layout_Title>Legal Rates - NSW</Layout_Title>
+      <Table_TableId>272</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>

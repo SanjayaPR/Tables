@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Table>
+
+  <TableId>983</TableId>
+
+  <DeleteCode>0</DeleteCode>
+
+  <Name>Reconciliation</Name>
+
+  <DocName>RECONCILIATION</DocName>
+
+  <Transaction>true</Transaction>
+
+  <BasedOnCard>false</BasedOnCard>
+
+  <OSUniqueId>872001</OSUniqueId>
+
+  <Singleton>false</Singleton>
+
+  <TableLayouts>
+    <TableLayout>
+      <Layout_LayoutId>1518</Layout_LayoutId>
+      <Layout_Title>Reconciliation</Layout_Title>
+      <Table_TableId>983</Table_TableId>
+      <ShownOnMatter>False</ShownOnMatter>
+      <MatterType_MatterCategoryId/>
+      <MatterType_MatterTypeId/>
+    </TableLayout>
+  </TableLayouts>
+
+</Table>
